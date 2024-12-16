@@ -1,0 +1,12 @@
+# ninja log v6
+46	74	7555825343283899	clean	20b1347d9ae3b987
+18	1318	7555881738792113	CMakeFiles/TSP_Solvers.dir/src/structures/MyStack.cpp.obj	172aa034d7c2f4fb
+6	1346	7555881738669689	CMakeFiles/TSP_Solvers.dir/src/app/main.cpp.obj	55492452283fbb3c
+69	1361	7555881739322225	CMakeFiles/TSP_Solvers.dir/src/algorithms/TSP_Dynamic_Programming.cpp.obj	441ae079b91f072d
+58	1563	7555881739196372	CMakeFiles/TSP_Solvers.dir/src/algorithms/TSP_Brute_Force.cpp.obj	136a5bd4e296fc23
+38	1597	7555881738996882	CMakeFiles/TSP_Solvers.dir/src/structures/Graph.cpp.obj	e831709d42ec1a7b
+28	1611	7555881738884613	CMakeFiles/TSP_Solvers.dir/src/ui/Menu.cpp.obj	762668a7e4e17b89
+48	1927	7555881739092391	CMakeFiles/TSP_Solvers.dir/src/algorithms/TSP_Branch_Bound.cpp.obj	d476fbbdad57bac9
+1928	2270	7555881757893553	TSP_Solvers.exe	fbba3841743dc672
+4	36	7555881883795614	clean	20b1347d9ae3b987
+5	27	7555883087510512	clean	20b1347d9ae3b987
