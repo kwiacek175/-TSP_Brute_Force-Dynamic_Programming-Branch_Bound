@@ -26,10 +26,6 @@ Projekt zawiera następujące pliki:
 - **myStack.cpp / myStack.h**: Implementacja klasy stosu (do użytku w algorytmach).
 
 
-## Przygotowanie danych wejściowych
-    - Grafy muszą być zapisane w plikach tekstowych w folderze `data/`.
-    - Format pliku: Każdy wiersz reprezentuje krawędź z wagą, np. `0 1 10` (oznacza krawędź między wierzchołkami 0 i 1 o wadze 10).
-
 
 
 
