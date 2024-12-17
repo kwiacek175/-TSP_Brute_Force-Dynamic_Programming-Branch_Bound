@@ -25,7 +25,10 @@ Projekt zawiera następujące pliki:
 - **TSP_DP.cpp / TSP_DP.h**: Implementacja algorytmu Dynamic Programming do rozwiązywania problemu TSP.
 - **myStack.cpp / myStack.h**: Implementacja klasy stosu (do użytku w algorytmach).
 
-
+## Narzędzia i oprogramowanie 
+- Projekt wymaga co najmniej **C++11**
+- **g++** (część **GNU Compiler Collection**)
+- Projekt nie wymaga dodatkowych zewnętrznych bibliotek. Wszystkie wymagane zależności są standardowe dla języka C++.
 
 
 
