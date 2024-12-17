@@ -25,35 +25,12 @@ Projekt zawiera następujące pliki:
 - **TSP_DP.cpp / TSP_DP.h**: Implementacja algorytmu Dynamic Programming do rozwiązywania problemu TSP.
 - **myStack.cpp / myStack.h**: Implementacja klasy stosu (do użytku w algorytmach).
 
-## Jak Uruchomić
 
-1. **Klonowanie repozytorium:**
-
-    ```bash
-    git clone https://github.com/twoje-repozytorium/TSP_Brute_Force-Dynamic_Programming-Branch_Bound.git
-    cd TSP_Brute_Force-Dynamic_Programming-Branch_Bound
-    ```
-
-2. **Kompleksowe wymagania:**
-    - Projekt jest napisany w C++.
-    - Kompilacja: `g++ -o tsp_menu main.cpp Graph.cpp TSP_BF.cpp TSP_BB.cpp TSP_DP.cpp myStack.cpp -std=c++11`
-    - Uruchomienie: `./tsp_menu`
-
-3. **Przygotowanie danych wejściowych:**
+## Przygotowanie danych wejściowych
     - Grafy muszą być zapisane w plikach tekstowych w folderze `data/`.
     - Format pliku: Każdy wiersz reprezentuje krawędź z wagą, np. `0 1 10` (oznacza krawędź między wierzchołkami 0 i 1 o wadze 10).
 
-4. **Uruchomienie programu:**
-    - Po uruchomieniu programu, wybierz odpowiednią opcję z menu:
-        1. **Wczytaj graf** - Wczytaj graf z pliku.
-        2. **Brute Force** - Zastosuj algorytm Brute Force.
-        3. **Branch & Bound** - Zastosuj algorytm Branch & Bound.
-        4. **Dynamic Programming** - Zastosuj algorytm Dynamic Programming.
-        5. **Zakończenie programu**.
 
-## Przykład użycia
 
-Po uruchomieniu programu, menu pozwala na wybór jednej z opcji. Na przykład, po wybraniu opcji 1, użytkownik jest proszony o podanie nazwy pliku zawierającego graf. Następnie, po wczytaniu grafu, użytkownik może wybrać jeden z algorytmów, aby obliczyć najkrótszą trasę.
 
-### Przykład:
 
